@@ -13,4 +13,4 @@ In addition, you will need:
 - the treaty texts themselves
 - metadata on the treaties
 
-Both of those things can be found (and are documented) on dataverse, here[https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/17222]
+Both of those things can be found (and are documented) on dataverse, [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/17222)
