@@ -7,10 +7,10 @@ In particular, you will find
 - `pca01ajpsrep.rdata` which is the 'main' PCA scaled data for the treaties (specifically, in an object called `stringpcaAJPSrep`).  This was created via the file `kpcastuff01.R`
 - `timetrend.R` produces the main change point results and plots. It needs access to `pca01ajpsrep.rdata`. Here, `plot.break()` should yield the relevant paper result.
 
-Warning: there are several packages/dependencies that I haven't checked in some years (in particular, in terms of the `tm` package and `kernlab`).  So that may require some local attention!
+Warning: there are several packages/dependencies that I haven't checked in some years (in particular, in terms of the `tm` package and `kernlab`).  So that may require some local attention!  In addition, there are various pathways that will need to be switched, though those should be self explanatory.
 
 In addition, you will need: 
 - the treaty texts themselves
 - metadata on the treaties
 
-Both of those things can be found (and are documented) on dataverse, [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/17222)
+Both of those things can be found (and are documented) on Dataverse, [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/17222)
